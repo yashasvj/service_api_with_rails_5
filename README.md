@@ -1,7 +1,7 @@
 ## SETUP
 
 ```
-cd rails5api
+cd service_api_with_rails_5
 bundle install
 ```
 
@@ -23,10 +23,10 @@ bin/rails s
 Your new API should now up and running on http://localhost:3000.
 
 ## How to run
-*Clone source from github*
+*Clone source from github https://github.com/yashasvj/service_api_with_rails_5.git *
 ```
 cd
-git clone && cd rails5api
+git clone https://github.com/yashasvj/service_api_with_rails_5.git && cd service_api_with_rails_5
 bundle install
 ```
 *Edit `config/database.yml`*
